@@ -1,0 +1,22 @@
+{
+  "name": "@zmeandji/times-ago",
+  "version": "1.0.0",
+  "description": "This can be used to know how much time has passed from that time to the present.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmin9/times-ago.git"
+  },
+  "keywords": [
+    "time",
+    "string",
+    "typescript"
+  ],
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "files": [
+    "lib"
+  ]
+}
