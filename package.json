@@ -1,6 +1,6 @@
 {
   "name": "@z_means_ji/times-ago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This can be used to know how much time has passed from that time to the present.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
