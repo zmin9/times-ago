@@ -8,11 +8,6 @@
     "type": "git",
     "url": "git+https://github.com/zmin9/times-ago.git"
   },
-  "keywords": [
-    "time",
-    "string",
-    "typescript"
-  ],
   "devDependencies": {
     "typescript": "^4.7.4"
   },
